@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: zhangqungang
+Build-Jdk: 17.0.2
+Implementation-Title: zmall-dubbo-getway
+Implementation-Version: 1.0
+Implementation-Vendor-Id: back.zmall.dubbo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/zmall-dubbo/zmall-dubbo-getway
+Created-By: Maven Integration for Eclipse
+
